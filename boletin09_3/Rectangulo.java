@@ -1,5 +1,5 @@
 package boletin09_3;
-
+//Version Final
 import javax.swing.JOptionPane;
 
 public class Rectangulo {
